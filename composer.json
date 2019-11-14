@@ -1,0 +1,17 @@
+{
+    "name": "netscapelabs/text-local-sms",
+    "type": "library",
+    "description": "text local sms",
+    "keywords": ["php","laravel","sms","text-local"],
+    "homepage": "https://www.netscapelabs.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gaurav Sethi",
+            "email": "gaurav@netscapelabs.com",
+            "homepage": "https://www.netscapelabs.com",
+            "role": "Solution Provider"
+        }
+    ],
+}
+
